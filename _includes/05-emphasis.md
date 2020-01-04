@@ -1,1 +1,8 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+# My Mad Skills:
+
+_Note: These are still being worked on_
+
+**HTML**
+**CSS**
+**JavaScript**
+**Github**
